@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Houston-Pasadena-The Woodlands Metro Area, TX, US",
+  "export_job_id": "590e509d-a212-4e3a-82ab-47047f2a5f78",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 275252,
+  "location_name": "Houston-Pasadena-The Woodlands, TX",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-houston-pasadena-the-woodlands-metro-area-tx-us-sample-275252",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/275252/beamstation_275252_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
+  "sample_pct": 9.92,
+  "sample_records": 52,
+  "sample_sha256": "da139f779ffd74e7686c7a9afcc3c22f35f2b8f33d7caa96ef6c1682883d5af0",
+  "sample_size_bytes": 219201,
+  "total_records": 524,
+  "updated_at": "2026-04-08T00:02:15.016070+00:00"
+}
