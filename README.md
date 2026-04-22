@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Houston-Pasadena-The Woodlands Metro Area, TX, US
 
-> Free BeamStation sample export with 44 rows and masked direct-contact fields.
+> Free BeamStation sample export with 39 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `275252` |
 | Location | Houston-Pasadena-The Woodlands, TX |
 | Category | Restaurants |
-| Full dataset size | 444 records |
-| Free sample size | 44 records (9.91%) |
-| Last export | 2026-04-15T05:43:40.294532+00:00 |
+| Full dataset size | 391 records |
+| Free sample size | 39 records (9.97%) |
+| Last export | 2026-04-22T11:32:08.309964+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-houston-pasadena-the-woodlands-metro-area-tx-us-sample-275252/releases/download/sample-latest/beamstation_275252_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
