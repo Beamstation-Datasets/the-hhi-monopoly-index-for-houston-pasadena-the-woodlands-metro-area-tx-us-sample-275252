@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a7c3b355-bb3e-4e33-b602-da60b982b017",
+  "export_job_id": "64138319-1f61-4d8c-9618-1168e413f9fe",
   "id_short": 275252,
-  "published_at": "2026-04-22T19:29:26Z",
+  "published_at": "2026-04-30T07:13:05Z",
   "repo_name": "the-hhi-monopoly-index-for-houston-pasadena-the-woodlands-metro-area-tx-us-sample-275252",
   "sample_asset_name": "beamstation_275252_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/275252/beamstation_275252_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
-  "sample_records": 39,
-  "sample_sha256": "7dcb57af511c6b05a4b57b663fff35a1ee46acac90b1e56d67f8dffa93f96bb5",
-  "sample_size_bytes": 159014,
-  "total_records": 391
+  "sample_records": 44,
+  "sample_sha256": "d185f08ff9fc2f9dbebaa3d6048047dca4c2de5c00c6b3e0c304bef5263320c6",
+  "sample_size_bytes": 172458,
+  "total_records": 445
 }
